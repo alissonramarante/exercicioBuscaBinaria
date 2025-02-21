@@ -33,7 +33,7 @@ public class BuscaBinariaImpl implements BuscaBinaria{
     }
 
     @Override
-    public int contarMaiores(int[] array, int key) {
+    public int countMaior(int[] array, int key) {
         // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'contarMaiores'");
     }
